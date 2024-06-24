@@ -1,17 +1,13 @@
-Slack Local Plugin
+Plugin de exportación automática de notas
 ====================
-Slack Local Plugin stores the userdata.
+Proyecto Final - Grupo 5 - ORT Belgrano 2024
+- Maximiliano Schiavello
+- Carlos Fernández
+- Lucía Liascovich
+- Alejo Conde
+- Facundo Pauro
 
-# Installation
 
-Install the plugin from Site Administration > Plugins > Install plugins.
+# Tecnologías utilizadas, instalación y funcionamiento del sistema
 
-(or)
-
-Add the plugin to /local/ directory.
-
-Refresh the Moodle site, the installation will start.
-  
-# Settings
-
-Site Administration > General > Slack
+[Manual del Programador y Producto](https://docs.google.com/document/d/19O3GzznUbinNyrDRchbM8StbUOHUobhn/edit?usp=drive_link&ouid=112471305579759556288&rtpof=true&sd=true)
